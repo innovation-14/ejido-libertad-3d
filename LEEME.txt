@@ -1,0 +1,1 @@
+Subir index.html y carpeta archivo al repositorio. Render publica desde raíz. Proyectos y polígonos se guardan localmente. Cartografía de referencia; sin deslinde oficial.
